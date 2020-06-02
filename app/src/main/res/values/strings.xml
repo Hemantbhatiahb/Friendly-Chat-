@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FireBase Features</string>
+    <string name="signupGoogle">SignUp Using Google</string>
+    <string name="SignupEmail">SignUp Using email</string>
+    <string name="signout">SignOut</string>
+</resources>
